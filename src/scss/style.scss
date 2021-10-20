@@ -1,0 +1,69 @@
+@import "variables";
+@import "../../node_modules/bootstrap/scss/bootstrap";
+@import "barrio";
+
+/* GENERAL STYLES
+-------------------------------------------------*/
+
+body {
+  background: $white;
+}
+
+/* COLORS 
+--------------------------------------------------*/
+
+a {
+  color: $accent-shade;
+}
+
+.bg-secondary {
+  background: $white !important;
+}
+
+.bg-inverse {
+  background: $primary-shade;
+}
+
+.site-footer {
+  background: $accent-shade;
+}
+
+.menu--main li a {
+  color: $primary-shade;
+}
+
+.menu--account li a {
+  color: $primary-shade;
+}
+
+a.navbar-brand {
+  display: flex;
+  align-items: center;
+
+  img {
+    margin-right: 1rem;
+    max-height: 75px;
+  }
+}
+
+.site-name-slogan a {
+  text-decoration: none;
+}
+
+.card-group img {
+  margin: 0;
+  width: 100%;
+  height: auto;
+}
+
+.card-group .field--type-image {
+  margin: 0;
+}
+
+.slick {
+  width: 100%;
+}
+
+.slick > div {
+  margin: 0 15px;
+}
