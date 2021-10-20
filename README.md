@@ -1,4 +1,4 @@
-# Inventive Bootstrap 5 subtheme for Barrio 5.5+
+# Inventive Bootstrap 5 Drupal subtheme for Barrio 5.5+
 
 ## How to use this repo
 
