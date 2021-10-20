@@ -1,4 +1,4 @@
-# Inventive Bootstrap 5 theme implementation with Barrio as parent.
+# Inventive Bootstrap 5 subtheme for Barrio 5.5+
 
 ## How to use this repo
 
@@ -10,7 +10,7 @@
 
 ### Download this repo and install it's dependancies
 
-1. Clone this repo into your Drupal `/themes/custom directory`
+1. Clone this repo into your Drupal `/themes/custom` directory
 2. Run `npm install`
 3. Change the browser-sync proxy to reflect your environment in the file `/src/build/browser-sync.config.js`
 4. Run `npm start`
