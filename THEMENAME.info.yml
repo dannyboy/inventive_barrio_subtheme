@@ -7,7 +7,7 @@ core_version_requirement: ^8 || ^9
 base theme: bootstrap_barrio
 
 libraries:
-  - thresholds/global-styling
+  - THEMENAME/global-styling
 
 libraries-override:
   bootstrap_barrio/global-styling: false

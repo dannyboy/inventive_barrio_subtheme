@@ -19,7 +19,7 @@
 
 ### Finalise theme files and install theme in Drupal
 
-1. Rename `THEMENAME.info.yml`
+1. Rename `THEMENAME.info.yml` and THEMENAME/global-styling in the file
 2. Rename `THEMENAME.libraries.yml`
 3. Rename `THEMENAME.theme`
 4. Install theme in Drupal, run `drush theme:enable THEMENAME`
